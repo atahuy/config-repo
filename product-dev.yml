@@ -1,4 +1,4 @@
-env: productdev6
+env: productdev-dev6
 #eureka:
   #client:
    # service-url:
