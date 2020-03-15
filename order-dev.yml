@@ -1,4 +1,5 @@
 env: order-dev5
+person: id name address
 #eureka:
   #client:
     #service-url:
