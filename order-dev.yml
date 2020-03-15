@@ -1,4 +1,4 @@
-env: order-dev6
+env: order-dev5
 #eureka:
   #client:
     #service-url:
