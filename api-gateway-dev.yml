@@ -1,5 +1,2 @@
 server:
   port: 8089
-redis:
-    host: 192.168.0.105
-    port: 6379
