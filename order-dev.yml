@@ -3,10 +3,10 @@ person:
   id: 2
   name: bbb
   address: BJ
-#eureka:
-  #client:
-    #service-url:
-      #defaultZone: http://localhost:8762/eureka
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8762/eureka
 spring:
   application:
     name: order
