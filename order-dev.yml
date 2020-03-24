@@ -1,8 +1,4 @@
 env: order-dev2
-person: 
-  id: 2
-  name: bbb
-  address: BJ
 eureka:
   client:
     service-url:
